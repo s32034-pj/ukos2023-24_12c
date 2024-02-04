@@ -3,6 +3,7 @@ Moj kochany pamietniczku na dzisiejszych zajeciach nauczylem sie:
 - o różnych katalogach i do czego są wykorzystywane
 - polecenia w linuxie 
 - Dowiedziałem sie jak założyć konto na Githubie :')
+<<<<<<< HEAD
 14-10-2023
 Moj kochany pamietniczku na dzisiejszych zajeciach nauczylem sie:
 -nadawać i odbierać uprawnienia w różny sposób
@@ -20,3 +21,6 @@ Moj kochany pamietniczku na dzisiejszych zajeciach nauczylem sie:
 Moj kochany pamietniczku na dzisiejszych zajeciach nauczylem sie: 
 - jak wywolywac metody
 - jak uruchomić instalator w tle, żeby nie blokować powershell 
+=======
+- Było fajnie wszystko wiem. 
+>>>>>>> 2876460c14effea2f7dfd62f30dd1ea5e012744d
